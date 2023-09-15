@@ -1,0 +1,9 @@
+body {
+  background-color: tomato;
+  color: rgb(0, 0, 0);
+  background-image: url("/public/pexels-polina-kovaleva-5717479.jpg");
+}
+#li{
+  font-size: 20px;
+
+}
